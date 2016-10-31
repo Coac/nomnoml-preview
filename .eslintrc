@@ -1,3 +1,10 @@
 {
-  "extends": "semistandard"
+  "extends": "semistandard",
+  "env": {
+    "node": true,
+    "es6": true
+  },
+  "globals": {
+    "atom": true
+  }
 }
