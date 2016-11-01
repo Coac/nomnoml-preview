@@ -1,3 +1,3 @@
 ## 0.1.0 - First Release
-* Every feature added
-* Every bug fixed
+* Open new pane to display Nomnoml diagram
+* The Nomnoml diagram is live updated as the source changes
