@@ -1,7 +1,7 @@
 {
   "name": "nomnoml-preview",
   "main": "./lib/nomnoml-preview",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Nomnoml preview in Atom",
   "keywords": [
     "Nomnoml",
@@ -11,12 +11,13 @@
     "atom"
   ],
   "license": "MIT",
-  "scripts": { "lint": "eslint ." },
+  "scripts": {
+    "lint": "eslint ."
+  },
   "activationCommands": {
     "atom-workspace": "nomnoml-preview:toggle"
   },
   "repository": "https://github.com/SuperCoac/nomnoml-preview",
-  "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
