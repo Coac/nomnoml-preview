@@ -7,3 +7,8 @@
 ![nomnoml-preview](/nomnoml-preview.gif)
 
 To activate the Nomnoml preview in the editor : `ctrl-alt-n`
+
+## Install
+```
+apm install nomnoml-preview
+```
