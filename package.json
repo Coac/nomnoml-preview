@@ -1,7 +1,7 @@
 {
   "name": "nomnoml-preview",
   "main": "./lib/nomnoml-preview",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Nomnoml preview in Atom",
   "keywords": [
     "Nomnoml",
