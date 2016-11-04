@@ -17,7 +17,7 @@
   "activationCommands": {
     "atom-workspace": "nomnoml-preview:toggle"
   },
-  "repository": "https://github.com/SuperCoac/nomnoml-preview",
+  "repository": "https://github.com/Coac/nomnoml-preview",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
